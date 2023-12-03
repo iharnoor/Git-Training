@@ -6,3 +6,4 @@ if x==4:
 	print("Hi Again")
 
 x =6
+x=7
